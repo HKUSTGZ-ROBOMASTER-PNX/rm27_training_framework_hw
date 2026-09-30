@@ -155,5 +155,7 @@
 ## 参考资料
 
 [1] [天之博特C板开发资料与官方开发资料](https://github.com/tianbot/RM-Board-C-Tutorial)，从这里可以看到C板各种操作的例程
+
 [2] [中科大电控合集](https://space.bilibili.com/337732684/lists/1043942)，非常好的电控视频教程，可以学到很多，底盘解算、功率控制、云台控制都可以从这里一步一步开始
+
 [3] [四元数推导](https://krasjet.github.io/quaternion/quaternion.pdf)，详细、简明的四元数推导过程
